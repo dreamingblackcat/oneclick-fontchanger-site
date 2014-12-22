@@ -4,8 +4,6 @@
 
   express = require("express");
 
-  pg = require("pg");
-
   app = express();
 
   Datastore = require("nedb");
