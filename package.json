@@ -1,0 +1,17 @@
+{
+  "name": "chromeExtHost",
+  "version": "0.0.1",
+  "description": "An app to host a chrome extension.",
+  "main": "server.js",
+  "dependencies": {
+    "express": "~4.10.0",
+    "nedb": "~0.11.1",
+    "jade": "~1.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
