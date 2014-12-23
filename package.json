@@ -1,8 +1,8 @@
 {
   "name": "chromeExtHost",
   "version": "0.0.1",
-  "description": "An app to host a chrome extension.",
-  "main": "server.js",
+  "description": "A web app to host a chrome extension called oneclick-fontchanger.",
+  "main": "app/server.js",
   "dependencies": {
     "express": "~4.10.0",
     "nedb": "~0.11.1",
@@ -12,6 +12,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "dreamingblackcat",
   "license": "MIT"
 }
