@@ -1,7 +1,7 @@
 Description
 ===========
 
-This is a (express)[https://github.com/strongloop/express] web application for hosting my chrome extension file.
+This is a [express](https://github.com/strongloop/express) web application for hosting my chrome extension file.
 
 Installation
 ============
@@ -19,4 +19,4 @@ Run app/server.js with node.
 node app/server.js
 ```
 
-The code was written with mainly coffeescript. It was meant to host on heroku free account. So, I used (nedb)[https://github.com/louischatriot/nedb.git]
+The code was written with mainly coffeescript. It was meant to host on heroku free account. So, I used [nedb](https://github.com/louischatriot/nedb.git)
